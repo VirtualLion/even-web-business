@@ -87,7 +87,7 @@
     "jest-config": "^23.1.0",
     "less": "^3.0.4",
     "less-loader": "^4.1.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^7.0.0",
     "postcss": "^6.0.22",
     "postcss-browser-reporter": "^0.5.0",
     "postcss-cssnext": "^3.1.0",
